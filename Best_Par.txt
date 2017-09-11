@@ -1,0 +1,1 @@
+0.90417 (+/-0.00942) for {'svc__gamma': 0.001, 'pca__n_components': 50, 'svc__kernel': 'linear', 'svc__C': 3.1622776601683795}

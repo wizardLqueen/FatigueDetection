@@ -1,0 +1,6 @@
+PIC_PATH = '/Users/apple/Desktop/FatigueDetection/FACE_BAG/My_Own_Pic/TRAIN_PIC/'
+SHAPE_PATH = '/Users/apple/Desktop/FatigueDetection/PYCode/shape_predictor_68_face_landmarks.dat' 
+SLEEP_PATH = '/Users/apple/Desktop/FatigueDetection/FACE_BAG/My_Own_Pic/TRAIN_PIC/Sleep/'
+AWAKE_PATH = '/Users/apple/Desktop/FatigueDetection/FACE_BAG/My_Own_Pic/TRAIN_PIC/Awake/'
+TEST_PATH = '/Users/apple/Desktop/FatigueDetection/FACE_BAG/My_Own_Pic/TEST_PIC/'
+CASCADE_PATH = '/usr/local/opencv-3.2.0/data/haarcascades/haarcascade_frontalface_alt.xml'
